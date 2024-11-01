@@ -1,2 +1,4 @@
 # Localrepo
-this is local repo
+This is local repo.
+<br>
+Learning Git.
